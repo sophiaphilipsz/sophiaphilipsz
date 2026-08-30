@@ -1,18 +1,11 @@
-## Hi there 👋
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+👋 Hi, I'm Sophia
+
+I'm a Multimedia Design student specializing in Frontend Development, with a strong interest in creating digital experiences that combine design, functionality, and usability.
+
+I enjoy working across both the creative and technical sides of digital design — from UI/UX and visual concepts in Figma to bringing designs to life with HTML, CSS, and JavaScript.
+
+
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" /> 
 
 
 
-**sophiaphilipsz/sophiaphilipsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
