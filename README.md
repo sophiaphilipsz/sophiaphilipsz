@@ -1,4 +1,4 @@
-👋 Hi, I'm Sophia
+<h1>👋 Hi, I'm Sophia</h1>
 
 I'm a Multimedia Design student specializing in Frontend Development, with a strong interest in creating digital experiences that combine design, functionality, and usability.
 
